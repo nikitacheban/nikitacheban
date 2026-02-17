@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nikita! <br/><a href="https://www.linkedin.com/in/nikita-cheban/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Nikita! <br/><a href="https://www.linkedin.com/in/nikita-cheban/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
