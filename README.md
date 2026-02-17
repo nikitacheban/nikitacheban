@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Unified Common Control Framework (UCCF) using NLP/ML based approach](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Unified Common Control Framework (UCCF) using NLP/ML based approach](https://docs.google.com/presentation/d/1YxvCrAZ8XNByW9Mjx9LMIsr_3oj2bc7B/edit?usp=sharing&ouid=115932425073156295758&rtpof=true&sd=true)</b>
   
 <h2> Certifications:</h2>
 
