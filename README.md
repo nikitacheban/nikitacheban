@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Nikita! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<!--
-**nikitacheban/nikitacheban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Unified Common Control Framework (UCCF) using NLP/ML based approach</b>
+  - [UCCF](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+<h2> Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [CompTIA Security+](https://www.credly.com/badges/66a6504d-9d85-4fc3-aa44-2e8e1c485cfb/linked_in?t=t9yb60)
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/nikita-cheban/
